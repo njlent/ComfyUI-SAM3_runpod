@@ -2,6 +2,8 @@
 
 ComfyUI integration for Meta's SAM3 (Segment Anything Model 3) - enabling open-vocabulary image and video segmentation using natural language text prompts.
 
+> [!IMPORTANT]
+> **Runpod Support**: use install_runpod.py instead of install.py
 
 https://github.com/user-attachments/assets/323df482-1f05-4c69-8681-9bfb4073f766
 
